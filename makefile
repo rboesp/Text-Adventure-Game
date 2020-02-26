@@ -21,4 +21,4 @@ ${OBJS}: ${SRCS}
 	${CXX} ${CXXFLAGS} -c $(@:.o=.cpp)
 
 clean:
-	rm *.o final
+	rm *.o
