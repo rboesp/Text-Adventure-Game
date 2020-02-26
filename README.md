@@ -1,6 +1,6 @@
 # room-game-project
 
-# demo
+# Demo
 ![Demo](demo/text-adventure.gif)
 
 This project was to practice using pointers and classes/OOP in C++.
